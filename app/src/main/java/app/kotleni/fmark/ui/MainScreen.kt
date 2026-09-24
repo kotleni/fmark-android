@@ -63,7 +63,7 @@ fun MainScreen(
                 fontWeight = FontWeight.Bold,
             )
             Text(
-                text = "Android vulkan benchmark",
+                text = "Android rendering benchmark",
                 style = MaterialTheme.typography.titleMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
